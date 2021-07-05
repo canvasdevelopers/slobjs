@@ -1,0 +1,25 @@
+{
+  "name": "slobjs",
+  "version": "1.0.0",
+  "description": "Node.JS Serverless/Load Balancer/Server Web Framewrok with built-in Admin Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvasdevelopers/slobjs.git"
+  },
+  "keywords": [
+    "serverless",
+    "loadbalancer",
+    "admin",
+    "panel"
+  ],
+  "author": "Canvas Developers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvasdevelopers/slobjs/issues"
+  },
+  "homepage": "https://github.com/canvasdevelopers/slobjs#readme"
+}
